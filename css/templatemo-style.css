@@ -382,8 +382,8 @@ a:hover, a:active, a:focus {
    About section              
 -----------------------------------------*/
 
-#about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+#about .KA-20 {
+    background: url('../images/KA-20.jpg') no-repeat;
 }
 
 #about .about-thumb,
