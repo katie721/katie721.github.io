@@ -462,7 +462,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #research .home-img {
-  background: url('../images/home-img') no-repeat;
+  background: url('../images/boba_guys.jpg') no-repeat;
 }
 
 #research .media-heading {
@@ -513,8 +513,8 @@ a:hover, a:active, a:focus {
   background: #E3AE57;
 }
 
-#abroad .boba_guys.0 {
-  background: url('../images/boba_guys.0.jpg') no-repeat;
+#abroad .boba_guys {
+  background: url('../images/boba_guys.jpg') no-repeat;
 }
 
 #abroad .media-heading {
