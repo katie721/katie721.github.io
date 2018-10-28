@@ -382,8 +382,8 @@ a:hover, a:active, a:focus {
    About section              
 -----------------------------------------*/
 
-#about .KA-20 {
-    background: url('../images/KA-20.jpg') no-repeat;
+#about .kmpg {
+    background: url('../images/kmpg.jpg') no-repeat;
 }
 
 #about .about-thumb,
@@ -580,8 +580,8 @@ a:hover, a:active, a:focus {
   min-height: 75vh;
 }
 
-#contact .contact-img {
-  background: url('../images/contact-img.jpg') no-repeat;
+#contact .KA-20 {
+  background: url('../images/KA-20.jpg') no-repeat;
   min-height: 75vh;
 }
 
