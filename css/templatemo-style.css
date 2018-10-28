@@ -487,10 +487,10 @@ a:hover, a:active, a:focus {
     Research section              
 -----------------------------------------*/
 
-#research .experience-img {
+/*#research .experience-img {
   background: url('../images/experience-img.jpg') no-repeat;
 }
-
+*/
 #research .media-heading {
   margin-bottom: 0px;
 }
