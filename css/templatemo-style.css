@@ -483,14 +483,15 @@ a:hover, a:active, a:focus {
   font-weight: bold;
 }
 
+
 /*---------------------------------------
     Research section              
 -----------------------------------------*/
 
-/*#research .experience-img {
+#research .experience-img {
   background: url('../images/experience-img.jpg') no-repeat;
 }
-*/
+
 #research .media-heading {
   margin-bottom: 0px;
 }
