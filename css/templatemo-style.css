@@ -390,8 +390,8 @@ a:hover, a:active, a:focus {
    About section              
 -----------------------------------------*/
 
-#about .IMG_0392 {
-    background: url('../images/IMG_0392.jpg') no-repeat;
+#about .kmpg {
+    background: url('../images/kmpg.jpg') no-repeat;
 }
 
 #about .about-thumb,
@@ -642,8 +642,6 @@ a:hover, a:active, a:focus {
 #contact .fa {
   padding-right: 10px;
 }
-
-
 
 /*---------------------------------------
    Footer section              
