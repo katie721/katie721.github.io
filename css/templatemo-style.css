@@ -487,20 +487,20 @@ a:hover, a:active, a:focus {
   background: #E3AE57;
 }
 
-#abroad .education-img {
-  background: url('../images/education-img.jpg') no-repeat;
+#abroad .boba_guys.0 {
+  background: url('../images/boba_guys.0.jpg') no-repeat;
 }
 
-#education .media-heading {
+#abroad .media-heading {
   margin-bottom: 0px;
 }
 
-#education .media .fa {
+#abroad .media .fa {
   font-size: 42px;
   margin-right: 14px;
 }
 
-#education small {
+#abroad small {
   color: #886D1E;
   font-weight: bold;
 }
