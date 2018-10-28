@@ -461,8 +461,8 @@ a:hover, a:active, a:focus {
     Research section              
 -----------------------------------------*/
 
-#research .Map_of_africa_with_flags {
-  background: url('../images/Map_of_africa_with_flags.png') no-repeat;
+#research .home-img {
+  background: url('../images/home-img') no-repeat;
 }
 
 #research .media-heading {
@@ -483,8 +483,8 @@ a:hover, a:active, a:focus {
     Abroad section              
 -----------------------------------------*/
 
-#abroad .Map_of_africa_with_flags {
-  background: url('../images/Map_of_africa_with_flags.png') no-repeat;
+#abroad .home-img {
+  background: url('../images/home-img') no-repeat;
 }
 
 #research .media-heading {
