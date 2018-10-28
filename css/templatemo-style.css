@@ -21,7 +21,7 @@ html,body {
 
 
 /*---------------------------------------
-    Typorgraphy              
+    Typography              
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
@@ -479,55 +479,6 @@ a:hover, a:active, a:focus {
 }
 
 #education small {
-  color: #886D1E;
-  font-weight: bold;
-}
-
-
-/*---------------------------------------
-    Research section              
------------------------------------------*/
-
-#research .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
-}
-
-#research .media-heading {
-  margin-bottom: 0px;
-}
-
-#research .media .fa {
-  font-size: 42px;
-  margin-right: 14px;
-}
-
-#research small {
-  color: #633;
-  font-weight: bold;
-}
-
-/*---------------------------------------
-    Abroad section              
------------------------------------------*/
-
-#abroad {
-  background: #E3AE57;
-}
-
-#abroad .education-img {
-  background: url('../images/education-img.jpg') no-repeat;
-}
-
-#abroad .media-heading {
-  margin-bottom: 0px;
-}
-
-#abroad .media .fa {
-  font-size: 42px;
-  margin-right: 14px;
-}
-
-#abroad small {
   color: #886D1E;
   font-weight: bold;
 }
