@@ -484,6 +484,54 @@ a:hover, a:active, a:focus {
 }
 
 /*---------------------------------------
+    Research section              
+-----------------------------------------*/
+
+#research .Map_of_africa_with_flags {
+  background: url('../images/Map_of_africa_with_flags.png') no-repeat;
+}
+
+#research .media-heading {
+  margin-bottom: 0px;
+}
+
+#research .media .fa {
+  font-size: 42px;
+  margin-right: 14px;
+}
+
+#research small {
+  color: #633;
+  font-weight: bold;
+}
+
+/*---------------------------------------
+    Abroad section              
+-----------------------------------------*/
+
+#abroad {
+  background: #E3AE57;
+}
+
+#abroad .boba_guys {
+  background: url('../images/boba_guys.jpg') no-repeat;
+}
+
+#abroad .media-heading {
+  margin-bottom: 0px;
+}
+
+#abroad .media .fa {
+  font-size: 42px;
+  margin-right: 14px;
+}
+
+#abroad small {
+  color: #886D1E;
+  font-weight: bold;
+}
+
+/*---------------------------------------
    Quotes section              
 -----------------------------------------*/
 
