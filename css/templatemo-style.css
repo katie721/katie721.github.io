@@ -484,6 +484,28 @@ a:hover, a:active, a:focus {
 }
 
 /*---------------------------------------
+    Research section              
+-----------------------------------------*/
+
+#research .experience-img {
+  background: url('../images/experience-img.jpg') no-repeat;
+}
+
+#research .media-heading {
+  margin-bottom: 0px;
+}
+
+#research .media .fa {
+  font-size: 42px;
+  margin-right: 14px;
+}
+
+#research small {
+  color: #634;
+  font-weight: bold;
+}
+
+/*---------------------------------------
    Quotes section              
 -----------------------------------------*/
 
