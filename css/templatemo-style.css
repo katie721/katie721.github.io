@@ -480,32 +480,6 @@ a:hover, a:active, a:focus {
 }
 
 /*---------------------------------------
-    Abroad section              
------------------------------------------*/
-
-#abroad {
-  background: #E3AE57;
-}
-
-#abroad .boba_guys.0 {
-  background: url('../images/boba_guys.0.jpg') no-repeat;
-}
-
-#abroad .media-heading {
-  margin-bottom: 0px;
-}
-
-#abroad .media .fa {
-  font-size: 42px;
-  margin-right: 14px;
-}
-
-#abroad small {
-  color: #886D1E;
-  font-weight: bold;
-}
-
-/*---------------------------------------
     Education section              
 -----------------------------------------*/
 
@@ -531,7 +505,31 @@ a:hover, a:active, a:focus {
   font-weight: bold;
 }
 
+/*---------------------------------------
+    Abroad section              
+-----------------------------------------*/
 
+#abroad {
+  background: #E3AE57;
+}
+
+#abroad .boba_guys.0 {
+  background: url('../images/boba_guys.0.jpg') no-repeat;
+}
+
+#abroad .media-heading {
+  margin-bottom: 0px;
+}
+
+#abroad .media .fa {
+  font-size: 42px;
+  margin-right: 14px;
+}
+
+#abroad small {
+  color: #886D1E;
+  font-weight: bold;
+}
 
 /*---------------------------------------
    Quotes section              
