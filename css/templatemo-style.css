@@ -483,21 +483,25 @@ a:hover, a:active, a:focus {
     Abroad section              
 -----------------------------------------*/
 
-#abroad .home-img {
-  background: url('../images/home-img') no-repeat;
+#abroad {
+  background: #E3AE57;
 }
 
-#research .media-heading {
+#abroad .education-img {
+  background: url('../images/education-img.jpg') no-repeat;
+}
+
+#education .media-heading {
   margin-bottom: 0px;
 }
 
-#research .media .fa {
+#education .media .fa {
   font-size: 42px;
   margin-right: 14px;
 }
 
-#research small {
-  color: #633;
+#education small {
+  color: #886D1E;
   font-weight: bold;
 }
 
