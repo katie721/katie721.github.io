@@ -461,7 +461,29 @@ a:hover, a:active, a:focus {
     Research section              
 -----------------------------------------*/
 
-#research .research-img {
+#research .Map_of_africa_with_flags {
+  background: url('../images/Map_of_africa_with_flags.png') no-repeat;
+}
+
+#research .media-heading {
+  margin-bottom: 0px;
+}
+
+#research .media .fa {
+  font-size: 42px;
+  margin-right: 14px;
+}
+
+#research small {
+  color: #633;
+  font-weight: bold;
+}
+
+/*---------------------------------------
+    Abroad section              
+-----------------------------------------*/
+
+#abroad .Map_of_africa_with_flags {
   background: url('../images/Map_of_africa_with_flags.png') no-repeat;
 }
 
