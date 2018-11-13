@@ -199,14 +199,14 @@ html{
 }
 
 a {
-  color: #00008b;
+  color: #232B2B;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #00008b;
+  color: #232B2B;
   outline: none;
 }
 
