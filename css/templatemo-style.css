@@ -447,8 +447,8 @@ a:hover, a:active, a:focus {
     Experience section              
 -----------------------------------------*/
 
-#experience .IMG_3375 {
-  background: url('../images/IMG_3375.JPG') no-repeat;
+#experience .Bubble {
+  background: url('../images/Bubble.jpg') no-repeat;
 }
 
 #experience .media-heading {
@@ -526,7 +526,7 @@ a:hover, a:active, a:focus {
 }
 
 #abroad .IMG_4776 {
-  background: url('../images/IMG_4476.jpg') no-repeat;
+  background: url('../images/IMG_4476.JPG') no-repeat;
 }
 
 #abroad .media-heading {
