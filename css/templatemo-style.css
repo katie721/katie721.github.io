@@ -92,7 +92,7 @@ p {
 }
 
 .section-btn:hover {
-  background: #f1e2d7; 
+  background: #997379; 
   border-color: transparent;
   color: #ffffff;
 }
@@ -173,11 +173,11 @@ footer {
 }
 
 .color-pink {
-  color: #f1e2d7; 
+  color: #997379; 
 }
 
 .bg-pink {
-  background: #f1e2d7;
+  background: #997379; 
 }
 
 .bg-white {
@@ -305,7 +305,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #f1e2d7;
+    color: #997379; 
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
@@ -315,7 +315,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #f1e2d7; 
+    color: #997379; 
 }
 
 .custom-navbar .navbar-toggle {
@@ -328,7 +328,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-    background: #f1e2d7; 
+    background: #997379; 
     border-color: transparent;
 }
 
@@ -470,7 +470,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #education {
-  background: #f1e2d7;
+  background: #997379; 
 }
 
 #education .Georgetown1 {
@@ -487,7 +487,7 @@ a:hover, a:active, a:focus {
 }
 
 #education small {
-  color: #997379;
+  color: #333333;
   font-weight: bold;
 }
 
@@ -522,7 +522,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #abroad {
-  background: #f1e2d7; 
+  background: #997379; 
 }
 
 #abroad .IMG_4776 {
@@ -539,7 +539,7 @@ a:hover, a:active, a:focus {
 }
 
 #abroad small {
-  color: #997379;
+  color: #333333;
   font-weight: bold;
 }
 
@@ -607,7 +607,7 @@ a:hover, a:active, a:focus {
 #contact .form-control {
   background: transparent;
   border: none;
-  border-bottom: 1px solid #f1e2d7;
+  border-bottom: 1px solid #997379;
   border-radius: 0px;
   box-shadow: none;
   color: #ffffff;
@@ -687,7 +687,7 @@ footer {
 }
 
 .social-icon li a:hover {
-    background: #f1e2d7; 
+    background: #997379;
     border-color: #ffffff;
     color: #ffffff;
     transform: scale(1.1);
