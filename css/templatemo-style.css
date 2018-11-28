@@ -149,10 +149,13 @@ footer {
 }
 
 #experience,
-#education 
-#research
 #abroad {
   background: #C0C0C0;
+}
+
+#education, 
+#research {
+  background: #800080;
 }
 
 .background-image {
@@ -469,10 +472,6 @@ a:hover, a:active, a:focus {
     Education section              
 -----------------------------------------*/
 
-#education {
-  background: #D8BFD8; 
-}
-
 #education .Georgetown1 {
   background: url('../images/Georgetown1.jpg') no-repeat;
 }
@@ -520,10 +519,6 @@ a:hover, a:active, a:focus {
 /*---------------------------------------
     Abroad section              
 -----------------------------------------*/
-
-#abroad {
-  background: #D8BFD8; 
-}
 
 #abroad .IMG_4776 {
   background: url('../images/IMG_4476.JPG') no-repeat;
