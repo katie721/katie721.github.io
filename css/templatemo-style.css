@@ -92,7 +92,7 @@ p {
 }
 
 .section-btn:hover {
-  background: #E3AE57;
+  background: #f1e2d7; 
   border-color: transparent;
   color: #ffffff;
 }
@@ -172,12 +172,12 @@ footer {
   color: #ffffff;
 }
 
-.color-yellow {
-  color: #E3AE57;
+.color-pink {
+  color: #f1e2d7; 
 }
 
-.bg-yellow {
-  background: #E3AE57;
+.bg-pink {
+  background: #f1e2d7;
 }
 
 .bg-white {
@@ -260,7 +260,7 @@ a:hover, a:active, a:focus {
   margin-top: -10px;
   margin-left: -10px;
   border-radius: 50%;
-  border: 2px solid #E3AE57;
+  border: 2px solid #f1e2d7;
   border-top-color: #f9f9f9;
   animation: spinner .6s linear infinite;
 }
@@ -305,7 +305,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #E3AE57;
+    color: #f1e2d7;
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
@@ -315,7 +315,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #E3AE57;
+    color: #f1e2d7; 
 }
 
 .custom-navbar .navbar-toggle {
@@ -328,7 +328,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-    background: #E3AE57;
+    background: #f1e2d7; 
     border-color: transparent;
 }
 
@@ -470,7 +470,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #education {
-  background: #E3AE57;
+  background: #f1e2d7;
 }
 
 #education .Georgetown1 {
@@ -487,7 +487,7 @@ a:hover, a:active, a:focus {
 }
 
 #education small {
-  color: #886D1E;
+  color: #997379;
   font-weight: bold;
 }
 
@@ -522,7 +522,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #abroad {
-  background: #E3AE57;
+  background: #f1e2d7; 
 }
 
 #abroad .IMG_4776 {
@@ -539,7 +539,7 @@ a:hover, a:active, a:focus {
 }
 
 #abroad small {
-  color: #886D1E;
+  color: #997379;
   font-weight: bold;
 }
 
@@ -607,7 +607,7 @@ a:hover, a:active, a:focus {
 #contact .form-control {
   background: transparent;
   border: none;
-  border-bottom: 1px solid #E3AE57;
+  border-bottom: 1px solid #f1e2d7;
   border-radius: 0px;
   box-shadow: none;
   color: #ffffff;
@@ -687,7 +687,7 @@ footer {
 }
 
 .social-icon li a:hover {
-    background: #E3AE57;
+    background: #f1e2d7; 
     border-color: #ffffff;
     color: #ffffff;
     transform: scale(1.1);
