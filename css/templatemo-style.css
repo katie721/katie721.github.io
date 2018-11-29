@@ -175,22 +175,53 @@ footer {
   color: #ffffff;
 }
 
-.color-pink {
-  color: #997379; 
+.color-blue {
+  color: #CCDBDC;
 }
 
-.bg-pink {
-  background: #997379; 
+.color-brown {
+  color: #8B635C; 
 }
 
-.bg-white {
-  background: #ffffff;
+.color-magenta {
+  color: #764248;
+}
+
+.color-green {
+  color: #93A29B; 
+}
+
+.color-purple {
+  color: #592941;
 }
 
 .bg-dark {
   background: #161616;
 }
 
+.bg-white {
+  background: #ffffff;
+}
+
+.bg-blue {
+  background: #CCDBDC;
+}
+
+.bg-brown {
+  background: #8B635C; 
+}
+
+.bg-magenta {
+  background: #764248;
+}
+
+.bg-green {
+  background: #93A29B; 
+}
+
+.bg-purple {
+  background: #592941;
+}
 
 
 /*---------------------------------------
