@@ -459,8 +459,6 @@ a:hover, a:active, a:focus {
   padding-bottom: 8px;
 }
 
-
-
 /*---------------------------------------
     Service section              
 -----------------------------------------*/
@@ -511,6 +509,11 @@ a:hover, a:active, a:focus {
   background: url('../images/Georgetown1.jpg') no-repeat;
 }
 
+#education .education-thumb,
+#education .skill-thumb {
+  padding: 22px 32px 32px 32px;
+}
+
 #education .media-heading {
   margin-bottom: 0px;
 }
@@ -553,6 +556,11 @@ a:hover, a:active, a:focus {
 
 #abroad .Beypazari {
   background: url('../images/Beypazari.JPG') no-repeat;
+}
+
+#abroad .abroad-thumb,
+#abroad .skill-thumb {
+  padding: 22px 32px 32px 32px;
 }
 
 #abroad .media-heading {
