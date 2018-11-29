@@ -427,7 +427,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #service {
-  background: #C0C0C0;
+  background: #CCDBDC;
 }
 
 #service p {
@@ -493,10 +493,6 @@ a:hover, a:active, a:focus {
 /*---------------------------------------
     Research section              
 -----------------------------------------*/
-
-#research {
-  background: #C0C0C0;
-}
 
 #research .Screen Shot 2018-11-28 at 5.14.33 PM {
   background: url('../images/Screen Shot 2018-11-28 at 5.14.33 PM.png') no-repeat;
@@ -576,7 +572,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #contact {
-  background: #C0C0C0;
+  background: #CCDBDC;
 }
 
 #contact .contact-form,
