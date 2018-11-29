@@ -457,10 +457,6 @@ a:hover, a:active, a:focus {
     Service section              
 -----------------------------------------*/
 
-#service {
-  background: #CCDBDC;
-}
-
 #service p {
   font-size: 18px;
   line-height: 30px;
