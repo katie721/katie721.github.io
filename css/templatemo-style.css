@@ -626,6 +626,11 @@ a:hover, a:active, a:focus {
   padding-bottom: 6px;
 }
 
+# contact a:hover, a:active, a:focus {
+  color: #ffffff;
+  outline: none;
+}
+
 #contact .form-control::-moz-placeholder{color:#161616;opacity:1}
 #contact .form-control:-ms-input-placeholder{color:#161616}
 #contact .form-control::-webkit-input-placeholder{color:#161616}
