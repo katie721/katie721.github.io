@@ -241,7 +241,7 @@ html{
 }
 
 a {
-  color: #592941;
+  color: #555B6E;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -249,7 +249,7 @@ a {
 }
 
 a:visited {
-    color: #93A29B;
+    color: #592941;
 }
 
 a:hover {
