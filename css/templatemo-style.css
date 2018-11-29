@@ -241,15 +241,23 @@ html{
 }
 
 a {
-  color: #232B2B;
+  color: #592941;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
-a:hover, a:active, a:focus {
-  color: #232B2B;
-  outline: none;
+
+a:visited {
+    color: #93A29B;
+}
+
+a:hover {
+    color: #F1E2D7;
+}
+
+a:active {
+    color: #ffffff;
 }
 
 * {
