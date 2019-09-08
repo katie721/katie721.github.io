@@ -413,8 +413,8 @@ a:active {
   padding-left: 0;
 }
 
-#home .Boba-42 {
-  background: url('../images/Boba-42.jpg') no-repeat;
+#home .Milan {
+  background: url('../images/Milan.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -440,8 +440,8 @@ a:active {
    About section              
 -----------------------------------------*/
 
-#about .kmpg {
-    background: url('../images/kmpg.jpg') no-repeat;
+#about .IMG_3435 {
+    background: url('../images/IMG_3435.JPG') no-repeat;
 }
 
 #about .about-thumb,
@@ -540,8 +540,8 @@ a:active {
     Research section              
 -----------------------------------------*/
 
-#research .Praat {
-  background: url('../images/Praat.png') no-repeat;
+#research .Fieldwork {
+  background: url('../images/Fieldwork.png') no-repeat;
 }
 
 #research .media-heading {
