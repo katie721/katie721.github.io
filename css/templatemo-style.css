@@ -441,7 +441,7 @@ a:active {
 -----------------------------------------*/
 
 #about .Krakow {
-    background: url('../images/Krakow.JPG') no-repeat;
+    background: url('../images/Krakow.jpg') no-repeat;
     background-size: cover;
     background-position: 100% 100%;
     width: 100%;
@@ -549,7 +549,7 @@ a:active {
 -----------------------------------------*/
 
 #research .Fieldwork {
-  background: url('../images/Fieldwork.png') no-repeat;
+  background: url('../images/Fieldwork.jpg') no-repeat;
   background-size: cover;
   background-position: 100% 100%;
   width: 100%;
